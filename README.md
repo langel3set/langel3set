@@ -1,16 +1,17 @@
-## Hi there 👋
+## ACERCA DE MÍ 👋
 
-<!--
-**langel3set/langel3set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de sistemas**
+:pencil: **dev independiente**
 
-Here are some ideas to get you started:
+**Fan de los juegos de supervivencia y de reparar computadoras**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CONTACTO
+![WEBSITE](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-angel-bardales-cabrejos-aa160624a%2F&down_message=LK&label=LINKEDIN
+)
+![WEBSITE](https://img.shields.io/website?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61551365932381&up_message=FB&label=FACEBOOK
+)
+
+### ACTIVIDAD
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/langel3set/langel3set
+)
